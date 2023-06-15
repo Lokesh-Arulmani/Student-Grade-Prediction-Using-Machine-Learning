@@ -30,15 +30,5 @@ The Student Grade Prediction project aims to develop a model that can accurately
 ## Usage
 
 1. Open the Jupyter Notebook:
-
-  ```shell
    git clone https://github.com/Lokesh-Arulmani/student-grade-prediction.git
-'''
-
-2. Navigate to the project directory:
-
-   cd Student-Grade-Prediction-Using-Machine-Learning
-
-3. Install the required dependencies:
-
-   pip install -r requirements.txt
+   
