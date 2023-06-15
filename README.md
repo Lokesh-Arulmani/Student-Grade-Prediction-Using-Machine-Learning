@@ -34,6 +34,10 @@ The Student Grade Prediction project aims to develop a model that can accurately
   ```shell
    git clone https://github.com/Lokesh-Arulmani/student-grade-prediction.git
 
-Navigate to the project directory and open the student-grade-prediction.ipynb notebook.
+2. Navigate to the project directory:
 
-Follow the step-by-step instructions provided in the notebook to execute the code, including data preprocessing, model training, and evaluation.
+   cd Student-Grade-Prediction-Using-Machine-Learning
+
+3. Install the required dependencies:
+
+   pip install -r requirements.txt
