@@ -30,5 +30,17 @@ The Student Grade Prediction project aims to develop a model that can accurately
 ## Usage
 
 1. Open the Jupyter Notebook:
+     ```shell
    git clone https://github.com/Lokesh-Arulmani/student-grade-prediction.git
-   
+
+2.. Navigate to the project directory and open the student-grade-prediction.ipynb notebook.
+
+3.. Follow the step-by-step instructions provided in the notebook to execute the code, including data preprocessing, model training, and evaluation.
+
+## License
+This project is licensed under the MIT License. 
+
+## Contributing
+Contributions to this project are welcome. If you find any issues or have ideas for improvements, please open an issue or submit a pull request.
+
+
