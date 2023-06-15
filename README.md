@@ -33,6 +33,7 @@ The Student Grade Prediction project aims to develop a model that can accurately
 
   ```shell
    git clone https://github.com/Lokesh-Arulmani/student-grade-prediction.git
+'''
 
 2. Navigate to the project directory:
 
